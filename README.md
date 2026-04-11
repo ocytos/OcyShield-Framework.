@@ -13,19 +13,17 @@ OcyShield is a modular framework engineered for security researchers and penetra
 * **Automated Dependency Resolution:** Integrated environment configuration for Unix-based systems.
 
 ## Installation
-Ensure you have Python 3.8+ installed. To resolve dependencies and configure the local environment, execute the following commands:
+To install **OcyShield** globally with a single command, run:
 
-
-git clone https://github.com/ocytos/OcyShield-Framework.git
-cd OcyShield-Framework
-sudo python3 setup.py
+curl -sSL [https://raw.githubusercontent.com/ocytos/OcyShield-Framework/main/install.sh](https://raw.githubusercontent.com/ocytos/OcyShield-Framework/main/install.sh) | bash
 
 
 ## Usage
 To initialize the framework's core interface, run:
 
 
-python3 main.py
+ocysh
+
 
 
 ## Legal Disclaimer

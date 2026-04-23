@@ -28,7 +28,6 @@ def show_ocy_banner():
         'cx000k:.                    .:k000x'
     """
     
-    # Reducimos los print() para un código más limpio
     print(banner_art)
     print(f"[{RED}+{RESET}] OcyShield Framework | v2.0 \"Viper\"")
     print(f"[{RED}+{RESET}] Educational Exploitation & Automation Suite")
